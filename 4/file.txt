@@ -1,0 +1,4 @@
+
+ Polynomial with 7 degree : 40x^7 + 26x^6 + 62x^5 + 79x^4 + 57x^3 + 90x^2 + 80x + 75 = 0
+ Polynomial with 5 degree : 81x^5 + 2x^4 + 91x^3 + 13x^2 + 98x + 25 = 0
+ Polynomial with 3 degree : 15x^3 + 70x^2 + 94x + 24 = 0
