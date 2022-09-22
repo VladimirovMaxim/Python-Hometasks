@@ -1,3 +1,5 @@
+# Напишите программу, удаляющую из текста все слова, содержащие ""абв"".
+
 text_1 = open("text_1.txt","w")
 text_1.write("abcghg try abcaba to do doabc it abcit in English ")
 text_1.close()
