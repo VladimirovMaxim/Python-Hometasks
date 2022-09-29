@@ -105,6 +105,7 @@ def delete_entry():  # удалить запись с бд взяв с конс�
     import re
     with open('data_base.csv', 'r') as fi:
         lines = fi.readlines()
+    print(var_input_output.instarction_delete)
     delete = input('Введите фамилию: ')
     count = 0
     for item in lines:
